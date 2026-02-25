@@ -1,6 +1,6 @@
 # 🛠️ IndieKit
 
-**Open-source developer tools, built with AI, tested by humans.**
+**Open-source tools that make developers's lives easier.**
 
 We port proven libraries across languages and make them agent-friendly with [MCP](https://modelcontextprotocol.io) support.
 
